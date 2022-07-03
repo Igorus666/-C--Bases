@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\countdownnn\bin\Debug\countdownnn.exe.config
+C:\Users\igor-\source\repos\countdownnn\bin\Debug\countdownnn.exe
+C:\Users\igor-\source\repos\countdownnn\bin\Debug\countdownnn.pdb
+C:\Users\igor-\source\repos\countdownnn\obj\Debug\countdownnn.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\countdownnn\obj\Debug\countdownnn.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\countdownnn\obj\Debug\countdownnn.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\countdownnn\obj\Debug\countdownnn.exe
+C:\Users\igor-\source\repos\countdownnn\obj\Debug\countdownnn.pdb

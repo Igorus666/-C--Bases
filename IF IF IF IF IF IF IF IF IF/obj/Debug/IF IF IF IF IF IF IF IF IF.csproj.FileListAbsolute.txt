@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\bin\Debug\IF IF IF IF IF IF IF IF IF.exe.config
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\bin\Debug\IF IF IF IF IF IF IF IF IF.exe
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\bin\Debug\IF IF IF IF IF IF IF IF IF.pdb
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\obj\Debug\IF IF IF IF IF IF IF IF IF.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\obj\Debug\IF IF IF IF IF IF IF IF IF.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\obj\Debug\IF IF IF IF IF IF IF IF IF.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\obj\Debug\IF IF IF IF IF IF IF IF IF.exe
+C:\Users\igor-\source\repos\IF IF IF IF IF IF IF IF IF\obj\Debug\IF IF IF IF IF IF IF IF IF.pdb

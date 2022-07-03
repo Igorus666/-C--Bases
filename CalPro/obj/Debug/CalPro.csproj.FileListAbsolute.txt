@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\CalPro\bin\Debug\CalPro.exe.config
+C:\Users\igor-\source\repos\CalPro\bin\Debug\CalPro.exe
+C:\Users\igor-\source\repos\CalPro\bin\Debug\CalPro.pdb
+C:\Users\igor-\source\repos\CalPro\obj\Debug\CalPro.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\CalPro\obj\Debug\CalPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\CalPro\obj\Debug\CalPro.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\CalPro\obj\Debug\CalPro.exe
+C:\Users\igor-\source\repos\CalPro\obj\Debug\CalPro.pdb

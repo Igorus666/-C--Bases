@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\Guess\bin\Debug\Guess.exe.config
+C:\Users\igor-\source\repos\Guess\bin\Debug\Guess.exe
+C:\Users\igor-\source\repos\Guess\bin\Debug\Guess.pdb
+C:\Users\igor-\source\repos\Guess\obj\Debug\Guess.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\Guess\obj\Debug\Guess.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\Guess\obj\Debug\Guess.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Guess\obj\Debug\Guess.exe
+C:\Users\igor-\source\repos\Guess\obj\Debug\Guess.pdb
