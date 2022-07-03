@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\igor-\source\repos\Trivial\bin\Debug\Trivial.exe
+C:\Users\igor-\source\repos\Trivial\bin\Debug\Trivial.pdb
+C:\Users\igor-\source\repos\Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\Trivial\obj\Debug\Trivial.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Trivial\obj\Debug\Trivial.exe
+C:\Users\igor-\source\repos\Trivial\obj\Debug\Trivial.pdb
