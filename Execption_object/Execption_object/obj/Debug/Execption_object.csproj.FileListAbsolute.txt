@@ -1,0 +1,8 @@
+C:\Users\igor-\source\repos\Execption_object\Execption_object\bin\Debug\Execption_object.exe.config
+C:\Users\igor-\source\repos\Execption_object\Execption_object\bin\Debug\Execption_object.exe
+C:\Users\igor-\source\repos\Execption_object\Execption_object\bin\Debug\Execption_object.pdb
+C:\Users\igor-\source\repos\Execption_object\Execption_object\obj\Debug\Execption_object.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\Execption_object\Execption_object\obj\Debug\Execption_object.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\Execption_object\Execption_object\obj\Debug\Execption_object.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Execption_object\Execption_object\obj\Debug\Execption_object.exe
+C:\Users\igor-\source\repos\Execption_object\Execption_object\obj\Debug\Execption_object.pdb
